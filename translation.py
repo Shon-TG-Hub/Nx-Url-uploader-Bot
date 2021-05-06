@@ -33,7 +33,7 @@ You can use /deletethumbnail to delete the auto-generated thumbnail."""
 URL | newfilename | username | password"""
 
 
-    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/Nx-Url-uploader-Bot/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
+    UPGRADE_TEXT = "<b>👉 Create own Clone Bot.. </b>  \n\n<a href='https://github.com/Shon-TG-Hub/Nx-Url-uploader-Bot/URLuploader-With-Hotstar'>Click here, Fork and deploy!!</a>"
     
     DOWNLOAD_START = "Trying to download your file..."
     
