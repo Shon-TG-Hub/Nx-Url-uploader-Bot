@@ -21,7 +21,7 @@ start_button=InlineKeyboardMarkup(
              
               [
                   InlineKeyboardButton("Help", callback_data = Help_user"), 
-                  InlineKeyboardButton("About", callback_data = "about_test")
+                  InlineKeyboardButton("About", callback_data = "about_text")
               ], 
               [
                   InlineKeyboardButton("Nexon Projects ❤", Url = "https"//telegram.me/Nexonhex")
