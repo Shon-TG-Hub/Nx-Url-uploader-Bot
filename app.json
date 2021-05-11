@@ -1,5 +1,5 @@
 {
-  "name": "URL Uploader",
+  "name": "Nx URL Uploader",
   "description": "Telegram's Open Source URL Uploader Bot. Create your Fork now.",
   "keywords": [
     "telegram",
@@ -7,8 +7,8 @@
     "uploader"
   ],
   "success_url": "https://telegram.dog/AnyDLBot",
-  "website": "https://github.com/prgofficial",
-  "repository": "https://github.com/prgofficial/URLuploader-With-Hotstar",
+  "website": "https://github.com/Shon-Tg-Hub",
+  "repository": "https://github.com/shon-tg-hub/URLuploader-With-Hotstar",
   "env": {
     "WEBHOOK": {
       "description": "Leave this as it is!",
@@ -34,7 +34,7 @@
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
       "value": "680815375"
-    },
+    },f
     "BANNED_USERS": {
       "description": "Ban Unwanted members..",
       "value": "",
